@@ -1,17 +1,13 @@
 {
-"companyName": "NewArtGaming",
-"productName": "Fresh Fruits",
-"productVersion": "1.0",
+"companyName": "DefaultCompany",
+"productName": "Slot_FreshFruits_v2",
 "dataUrl": "Slot.data.unityweb",
-"wasmCodeUrl": "Slot.wasm.code.unityweb",
-"wasmFrameworkUrl": "Slot.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"asmCodeUrl": "Slot.asm.code.unityweb",
+"asmMemoryUrl": "Slot.asm.memory.unityweb",
+"asmFrameworkUrl": "Slot.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"backgroundUrl": "Slot.jpg",
 "splashScreenStyle": "Dark",
-"backgroundColor": "#FFFFFF",
-"cacheControl": {"default": "must-revalidate"},
-"developmentBuild": false,
-"multithreading": false,
-"unityVersion": "2019.1.13f1"
+"backgroundColor": "#231F20"
 }
